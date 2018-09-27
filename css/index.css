@@ -1,0 +1,21 @@
+.table {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+    color: green;
+    text-align:center;
+}
+
+
+
+table a {
+    flex-direction: column;
+}
+
+footer {
+    text-align: center;
+    
+}
